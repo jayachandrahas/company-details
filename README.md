@@ -2,3 +2,5 @@
 adding details
 <br>
 employee id
+<br>
+emp salary
